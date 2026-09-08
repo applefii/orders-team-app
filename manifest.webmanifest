@@ -1,0 +1,10 @@
+{
+  "name": "طلباتك",
+  "short_name": "طلباتك",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#2558d9",
+  "description": "إدارة الطلبيات وفريق التأكيد",
+  "icons": []
+}
