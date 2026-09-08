@@ -1,10 +1,16 @@
 {
-  "name": "طلباتك",
-  "short_name": "طلباتك",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f4f7fc",
-  "theme_color": "#2558d9",
-  "description": "إدارة الطلبيات وفريق التأكيد",
-  "icons": []
+  "name":"طلباتك",
+  "short_name":"طلباتك",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f4f7fc",
+  "theme_color":"#2558d9",
+  "description":"إدارة الطلبيات وفريق التأكيد",
+  "lang":"ar",
+  "dir":"rtl",
+  "icons":[
+    {"src":"./icon.svg","sizes":"192x192","type":"image/svg+xml","purpose":"any maskable"},
+    {"src":"./icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+  ]
 }
